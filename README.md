@@ -1,8 +1,12 @@
 <h1>readme.md del segundo repositorio (Sistema de registro)</h1>
-- Este es el segundo repositorio. El primer repositorio no tiene un Readme.md ( por ahora)
-- Hola. Mi nombre es jaime Cartes
-- Estoy interesado en aprender de lenguajes de programación y temas afines
-- Estaré atento a cualquier comentario.
+
+- Este es el segundo repositorio. 
+
+- Estado del proyecto: en construcción
+  
+Para ejecutar el sistema debes poner:
+
+```npm install react```` (es un ejemplo)
 
 
 <!---
